@@ -1,5 +1,8 @@
 # UdemyAngularApp
 
+In this project I follow an Angular course on Udemy, my progress will be cataloged here.
+
+<hr>
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.2.
 
 ## Development server
